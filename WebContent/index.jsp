@@ -78,15 +78,7 @@
 									style="color: red; padding-left: 90px; display: none;"
 									id="emailErr">Email is mandatory</div>
 							</div>
-							<div class="contactForm_tr">
-								<div class="contactForm_td1">Phone</div>
-								<div class="contactForm_tdMiddle">:</div>
-								<div class="contactForm_td2">
-									<input name="phone" type="text" id="phone"
-										class="Personal-input" maxlength="30" placeholder="Enter Phone number"/>
-								</div>
-								
-							</div>	
+							
 							</fieldset>
 						<fieldset>
 							<legend>What do you like about this Page</legend>
