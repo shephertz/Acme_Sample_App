@@ -85,10 +85,7 @@
 									<input name="phone" type="text" id="phone"
 										class="Personal-input" maxlength="30" placeholder="Enter Phone number"/>
 								</div>
-								<div class="contactForm_td2"
-									style="color: red; padding-left: 90px; display: none;"
-									id="phoneErr">Phone is mandatory
-								</div>
+								
 							</div>	
 							</fieldset>
 						<fieldset>
