@@ -1,2 +1,2 @@
-# AcneSampleApp
-Sample App for DevOps Environment
+# AcmeSampleApp
+Sample Maven Project for DevOps Environment

@@ -42,7 +42,7 @@
 				<div class="logo">
 					<!--a href="http://paas.shephertz.com"><img border="0"
 						alt="App42PaaS" src="images/logo.png"></img></a-->
-						<div class="contactPage_title">Acne Sample App</div>
+						<div class="contactPage_title">Acme Sample App</div>
 				</div>
 			</div>
 		</div>
