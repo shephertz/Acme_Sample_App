@@ -9,6 +9,7 @@ fieldset{ border:1px solid #676767; margin-bottom:30px;}
 .App42PaaS_body { width: 1024px; margin: 20px auto; } 
 .App42PaaS_body_inner { width: 1024px; float: left; padding: 0px;  margin-top:20px; } 
 .contactPage_title { width: 964px; float: left; padding: 30px; font-size: 30px; color: rgb(255, 255, 255); font-family: "Myriad Pro"; font-weight: normal; line-height: 22px; text-align:center; } 
+.contactPage_title table{ color:#000;}
 .form_wrapper { font-family: "Open Sans",Helvetica,Arial,sans-serif; font-size: 16px; color: rgb(105, 105, 105); line-height: 22px; float: left; width: 590px; min-height: 250px; margin: 20px 0px 0px; padding: 30px 0px 0px 30px; margin:0 20%; } 
 fieldset { border: 1px solid rgb(103, 103, 103); margin-bottom: 15px; } 
 .contactForm_tr { float: left; margin-bottom: 10px; margin-top: 5px; }
