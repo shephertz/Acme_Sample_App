@@ -100,7 +100,7 @@
 							</div>
 						</fieldset>
 						<div class="form-button">
-						<button class="btn btn-success" type="submit" id="SubmitButton">Success</button>
+						<button class="btn btn-success" type="submit" id="SubmitButton">Submit</button>
 							<!--input id="SubmitButton" class="submit_btn btn-succes" type="image" border="0"
 								name="submit" alt="Submit" src="images/submit_btn.png"></input-->
 						</div>
